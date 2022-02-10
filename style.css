@@ -1,0 +1,33 @@
+h1{
+    font-size: 40px;
+}
+.width{
+    width: 50%;
+    padding-left: 10%;
+}
+.color{
+    color: tomato;
+}
+.width img{
+    width: 50%;
+    
+    
+}
+.ink_button{
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);
+        background-color: orange;
+        padding: 10px 10px;
+        border-radius: 30px;
+        color: white;
+        font-weight: 700;
+      
+}
+.topbanner{
+    display: flex;
+    border-bottom: 200px;
+    padding-bottom: 50px;
+}
+.center{
+    display: flex;
+}
