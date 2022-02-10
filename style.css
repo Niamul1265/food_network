@@ -1,5 +1,6 @@
 h1{
     font-size: 40px;
+    
 }
 .width{
     width: 50%;
@@ -9,7 +10,7 @@ h1{
     color: tomato;
 }
 .width img{
-    width: 50%;
+    width: 40%;
     
     
 }
@@ -17,17 +18,59 @@ h1{
         text-decoration: none;
         background-image: linear-gradient(orange, tomato);
         background-color: orange;
-        padding: 10px 10px;
+        padding: 10px 40px;
         border-radius: 30px;
         color: white;
         font-weight: 700;
+    
+}         
+.button{
+      margin-top: 40px;
+  }  
+    
       
-}
+
 .topbanner{
     display: flex;
     border-bottom: 200px;
     padding-bottom: 50px;
+    background-image: url(images/shapes/7.png);
+    
+}
+
+.second_banner{
+    display: flex;
+    border-bottom: 200pxp;
+    height: 300px;
+    padding-bottom: 50px;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.paragraph{
+    width: 30%;
+}
+.images{
+    height: 100%;
+    
 }
 .center{
-    display: flex;
+    text-align: center;
+    width: 50%;
+    margin: auto;
 }
+.third_banner{
+    display: flex;
+    border:0;
+    height: 300px;
+    justify-content: center;   
+    border-radius: 20px 20px; 
+}
+.third_banner img{
+    height: 100%;
+    width: 100%;
+}
+.margin{
+    margin: 20px;
+
+}
+
+
